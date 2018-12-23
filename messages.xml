@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mensajes>
+    <mensaje fechahora="2018-09-21 15:28:45">
+        <emisor>joseluis</emisor>
+        <receptor>maria</receptor>
+        <texto>¿Qué haces?</texto>
+    </mensaje>
+    <mensaje fechahora="2018-09-26 11:03:05">
+        <emisor>joseluis</emisor>
+        <receptor>alberto</receptor>
+        <texto>Quedamos a las 6 donde siempre. Vale?</texto>
+    </mensaje>
+    <mensaje fechahora="2018-09-26 13:11:29">
+        <emisor>alberto</emisor>
+        <receptor>joseluis</receptor>
+        <texto>OK!</texto>
+    </mensaje>
+    <mensaje fechahora="2018-10-21 10:32:00">
+        <emisor>marta</emisor>
+        <receptor>maria</receptor>
+        <texto>Hola Maria!! Como va todo?</texto>
+    </mensaje>
+    <mensaje fechahora="2018-10-22 12:32:52">
+        <emisor>maria</emisor>
+        <receptor>joseluis</receptor>
+        <texto>Ultimamente tengo mucho trabajo!! y tu qué te cuentas?</texto>
+    </mensaje>
+    <mensaje fechahora="2018-10-31 19:53:10">
+        <emisor>maria</emisor>
+        <receptor>jose luis</receptor>
+        <texto>pues hoy ha estado lloviendo muchisimo</texto>
+    </mensaje>
+    <mensaje fechahora="2018-10-31 20:13:02">
+        <emisor>pepe</emisor>
+        <receptor>juanito</receptor>
+        <texto>Proofs</texto>
+    </mensaje>
+    <mensaje fechahora="2018-12-23 18:03:40">
+        <emisor>pepe</emisor>
+        <receptor>ere</receptor>
+        <texto>hola</texto>
+    </mensaje>
+</mensajes>
